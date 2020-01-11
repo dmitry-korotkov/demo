@@ -5,4 +5,5 @@ NeuroStartUp - динамически развивающийся стартап,
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
-Логотип: ![NeuroStartUp logo](logo.png)
+Логотип: 
+![NeuroStartUp logo](logo.png)
